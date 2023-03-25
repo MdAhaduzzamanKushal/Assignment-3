@@ -1,0 +1,75 @@
+.btn{
+    background-color:  #a96e47b7;
+    border: none;
+    
+}
+
+.banner-img-1{
+    background-image: url("../images/banner.png");
+ 
+    height: 100vh;
+    
+    background-size: cover;
+}
+
+.text-1{
+    font-family: 'EB Garamond';
+    
+
+}
+.banner-header{
+    font-family: 'EB Garamond';
+    color: #414040;
+}
+.banner-header-p{
+    color: #707070;
+}
+
+.card-text-1{
+    font-family: 'EB Garamond';
+    color: #414040;
+}
+
+.card-text-p-1{
+    color: #707070;
+
+}
+
+.Logo-1{
+   color: #a96e47b7 ;
+ 
+
+}
+
+.banner-2{
+    background-image: url("../images/banner.png");
+    height:100vh;
+   
+    background-size: cover;
+}
+
+
+
+.carousel-title{
+    font-family: 'EB Garamond';
+    font-style: normal;
+}
+
+
+.carousel-p-1{
+    font-family: 'Poppins';
+    font-style: normal;
+}
+
+
+.carousel-p-2{
+    color: #F3F3F3;
+    font-family: 'Poppins';
+    font-style: normal;
+
+}
+
+.text-h1{
+    font-family: 'EB Garamond';
+
+}
